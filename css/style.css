@@ -382,8 +382,8 @@
 }
 
 .logo-box {
-  width: 24vw;
-  height: 140px;
+  width: 20vw;
+  height: 120px;
   border: 1px solid var(--level-1);
   justify-content: center;
   align-items: center;
@@ -607,7 +607,7 @@
 }
 
 .footer {
-  height: 422px;
+  height: 350px;
   background-color: var(--level-1);
   padding: 80px 72px;
 }
