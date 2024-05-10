@@ -120,7 +120,7 @@
 .hero-image-box {
   height: 115vh;
   max-height: 864px;
-  background-image: url('../images/freddy-d95cb5.jpg');
+  background-image: url('/images/freddy-d95cb5.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size:cover;
@@ -981,6 +981,9 @@
   .tab-grid {
     grid-template-columns: 1fr;
   }
+
+
+ 
 }
 
 #w-node-_3cb0f931-ad23-8f11-e7c9-7467d5aa3ec3-849ccc47, #w-node-c07b73a0-4560-1829-def8-54c08f04f882-849ccc47 {
