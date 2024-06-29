@@ -120,7 +120,7 @@
 .hero-image-box {
   height: 115vh;
   max-height: 864px;
-  background-image: url('/images/freddy-d95cb5.jpg');
+  background-image: url('../images/freddy-d95cb5.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size:cover;
