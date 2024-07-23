@@ -299,7 +299,7 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 120px 72px;
+  padding: 80px 72px;
   display: flex;
 }
 
@@ -850,6 +850,7 @@
     height: auto;
     padding-right: 0;
   }
+  
 
   .hero-image-box {
     height: 45vh;
