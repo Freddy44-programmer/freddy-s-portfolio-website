@@ -490,12 +490,6 @@
   object-fit: cover;
 }
 
-.testimonial-text {
-  border-right: 1px solid var(--darkgrey);
-  border-bottom: 1px solid var(--darkgrey);
-  border-left: 1px solid var(--darkgrey);
-  padding: 64px;
-}
 
 .heading_18px {
   color: var(--white);
@@ -698,6 +692,8 @@
 }
 
 @media screen and (max-width: 991px) {
+
+
   .wrapper.grid-3_col {
     grid-template-columns: 1fr 1fr;
   }
@@ -750,7 +746,8 @@
   }
 
   .projects-section {
-    padding: 80px 40px;
+    padding: 50px 25px;
+    flex: 1 1 calc(100% - 40px);
   }
 
   .project-wrapper._24px-bottom_m {
@@ -892,6 +889,8 @@
     height: auto;
     display: block;
   }
+
+
 
   .mid_left-block {
     height: 450px;
